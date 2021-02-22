@@ -9,5 +9,7 @@ I went through the proofs in the dpf and they had multiple minor typos.
 I've made a similiar network and it nicely predicts whether number from [-1, 1] is > 0.
 It's in draft.py. 
 
+dloss_dW0 is wrong.
+
 
 Next step is to change it a bit and solve MNIST.
